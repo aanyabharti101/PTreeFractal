@@ -84,6 +84,16 @@ Optional angle parameter:
 
 ---
 
+## Screenshot
+The screenshot file `screenshot.png` shows representative output of
+the program for L = 120 and N = 3.
+
+## Command
+  make
+./PTree 120 3
+
+![Program Output](screenshot.png)
+
 ## Algorithms & Concepts
 
 - Recursive graphics generation
